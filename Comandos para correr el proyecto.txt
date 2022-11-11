@@ -1,0 +1,3 @@
+para correr pug y tailwind se corre el comando 
+
+NPM RUN CSS  -> correr el css
